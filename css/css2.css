@@ -1,0 +1,30 @@
+.lol{
+    background-color: yellow;
+}
+
+body{
+background-color: #AFE1AF;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+
+
+}
+
+.prim{
+    font-size: 25px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+p{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #6A0A91;
+}
+
+.pal{
+    text-align: center;
+}

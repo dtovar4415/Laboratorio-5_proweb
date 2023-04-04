@@ -1,0 +1,28 @@
+.lol{
+    background-color: yellow;
+}
+
+body{
+background-color: #FA0D1E;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+   
+}
+
+.prim{
+    font-size: 25px;
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #FFFB0E;
+}
+
+.pal{
+    text-align: center;
+}
